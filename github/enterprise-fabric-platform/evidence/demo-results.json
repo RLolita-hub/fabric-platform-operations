@@ -1,0 +1,67 @@
+{
+  "environment": "Python 3.12.14 / SQLite; synthetic data only",
+  "runs": [
+    {
+      "run_id": "90630ad4-0418-45c0-9629-006e20007206",
+      "status": "SUCCEEDED",
+      "received": 3,
+      "new_events": 3,
+      "accepted": 3,
+      "rejected": 0,
+      "previous_checkpoint": 0,
+      "checkpoint": 3
+    },
+    {
+      "run_id": "1168e4ab-2ee6-443e-bcb6-38c115b2ad6b",
+      "status": "SUCCEEDED",
+      "received": 6,
+      "new_events": 5,
+      "accepted": 3,
+      "rejected": 2,
+      "previous_checkpoint": 3,
+      "checkpoint": 8
+    },
+    {
+      "run_id": "451694ea-e440-4701-8cd0-24f2072bbdb2",
+      "status": "SUCCEEDED",
+      "received": 6,
+      "new_events": 0,
+      "accepted": 0,
+      "rejected": 0,
+      "previous_checkpoint": 8,
+      "checkpoint": 8
+    },
+    {
+      "run_id": "d74282ea-0e85-4127-8ef6-bc7c0f1e8fe1",
+      "status": "SUCCEEDED",
+      "received": 2,
+      "new_events": 2,
+      "accepted": 2,
+      "rejected": 0,
+      "previous_checkpoint": 8,
+      "checkpoint": 10
+    }
+  ],
+  "final_active_orders": 5,
+  "final_revenue_cents": 16500,
+  "regions": [
+    [
+      "East",
+      3,
+      8,
+      9500
+    ],
+    [
+      "South",
+      1,
+      2,
+      5000
+    ],
+    [
+      "West",
+      1,
+      1,
+      2000
+    ]
+  ]
+}

@@ -1,0 +1,6 @@
+// Create these one at a time in Power BI. Not evaluated in this delivery.
+Revenue = DIVIDE(SUM(fact_orders[revenue_cents]), 100)
+Order Count = DISTINCTCOUNT(fact_orders[order_id])
+Units = SUM(fact_orders[quantity])
+Average Order Value = DIVIDE([Revenue], [Order Count])
+Revenue per Unit = DIVIDE([Revenue], [Units])

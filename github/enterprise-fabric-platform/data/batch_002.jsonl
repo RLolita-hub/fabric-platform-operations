@@ -1,0 +1,6 @@
+{"event_id": 4, "order_id": 101, "operation": "UPSERT", "order_date": "2026-01-01", "region": "East", "product_id": 3, "quantity": 3, "unit_price_cents": 1500}
+{"event_id": 5, "order_id": 102, "operation": "DELETE", "order_date": "2026-01-01", "region": "West", "product_id": 1, "quantity": 1, "unit_price_cents": 4000}
+{"event_id": 6, "order_id": 104, "operation": "UPSERT", "order_date": "2026-01-01", "region": "South", "product_id": 3, "quantity": 2, "unit_price_cents": 2500}
+{"event_id": 7, "order_id": 105, "operation": "UPSERT", "order_date": "2026-01-01", "region": "East", "product_id": 1, "quantity": -2, "unit_price_cents": 1000}
+{"event_id": 8, "order_id": 106, "operation": "UPSERT", "order_date": "2026-01-01", "region": "Mars", "product_id": 2, "quantity": 1, "unit_price_cents": 2000}
+{"event_id": 4, "order_id": 101, "operation": "UPSERT", "order_date": "2026-01-01", "region": "East", "product_id": 3, "quantity": 3, "unit_price_cents": 1500}

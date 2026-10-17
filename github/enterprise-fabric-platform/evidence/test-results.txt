@@ -1,0 +1,20 @@
+test_bad_types_and_dates_quarantined (test_pipeline.PipelineTests.test_bad_types_and_dates_quarantined) ... ok
+test_conflicting_replayed_id_fails (test_pipeline.PipelineTests.test_conflicting_replayed_id_fails) ... ok
+test_conflicting_same_batch_fails (test_pipeline.PipelineTests.test_conflicting_same_batch_fails) ... ok
+test_correction_requires_new_event (test_pipeline.PipelineTests.test_correction_requires_new_event) ... ok
+test_empty_batch_does_not_move_checkpoint (test_pipeline.PipelineTests.test_empty_batch_does_not_move_checkpoint) ... ok
+test_export_has_star_tables (test_pipeline.PipelineTests.test_export_has_star_tables) ... ok
+test_failure_rolls_back_and_audits (test_pipeline.PipelineTests.test_failure_rolls_back_and_audits) ... ok
+test_full_load_reconciles (test_pipeline.PipelineTests.test_full_load_reconciles) ... ok
+test_gap_fails_closed (test_pipeline.PipelineTests.test_gap_fails_closed) ... ok
+test_invalid_json_does_not_mutate (test_pipeline.PipelineTests.test_invalid_json_does_not_mutate) ... ok
+test_invalid_ordering_key_fails (test_pipeline.PipelineTests.test_invalid_ordering_key_fails) ... ok
+test_replay_is_noop (test_pipeline.PipelineTests.test_replay_is_noop) ... ok
+test_schema_drift_quarantined (test_pipeline.PipelineTests.test_schema_drift_quarantined) ... ok
+test_unsorted_batch_sorted_by_commit_sequence (test_pipeline.PipelineTests.test_unsorted_batch_sorted_by_commit_sequence) ... ok
+test_updates_deletes_duplicates_quarantine (test_pipeline.PipelineTests.test_updates_deletes_duplicates_quarantine) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.228s
+
+OK

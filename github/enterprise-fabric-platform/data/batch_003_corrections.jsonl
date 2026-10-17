@@ -1,0 +1,2 @@
+{"event_id": 9, "order_id": 105, "operation": "UPSERT", "order_date": "2026-01-01", "region": "East", "product_id": 1, "quantity": 2, "unit_price_cents": 1000}
+{"event_id": 10, "order_id": 106, "operation": "UPSERT", "order_date": "2026-01-01", "region": "West", "product_id": 2, "quantity": 1, "unit_price_cents": 2000}

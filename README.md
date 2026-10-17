@@ -19,7 +19,7 @@ python src/pipeline.py export
 
 - articles/: eight complete technical article drafts. The first covers the executed local implementation; later articles explicitly distinguish design proposals and examples from deployed work.
 - papers/: two technical manuscripts: an empirical local case study and a design/evaluation proposal. Neither is peer-reviewed, submitted, or claimed as novel research.
-- linkedin/: complete post drafts, About/headline copy and the 60-day calendar.
-- github/PROFILE-README.md: profile copy for later installation in the account profile repository.
+- linkedin/: complete post drafts and the 60-day calendar.
+- Personal profile/contact drafts are excluded from this public repository.
 
-Draft author attribution requires Lohitha's review. Technical writing was prepared with AI assistance; code examples and claims should be personally reproduced before publication under an author's name. No client data or proprietary code is included.
+Draft author attribution requires the author's review. Technical writing was prepared with AI assistance; code examples and claims should be personally reproduced before publication under an author's name. No client data or proprietary code is included.
