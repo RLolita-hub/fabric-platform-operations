@@ -24,6 +24,11 @@ python src/pipeline.py export
 
 Draft author attribution requires the author's review. Technical writing was prepared with AI assistance; code examples and claims should be personally reproduced before publication under an author's name. No client data or proprietary code is included.
 
-## New: separate projects and combined Customer 360
+## Standalone portfolio repositories
 
-[Browse all four projects](projects/README.md): Snowflake Incremental Orders, Informatica IDMC Order Quality, Informatica MDM Customer Mastering, and the combined IDMC + MDM + Snowflake + Fabric + Power BI platform. Each includes independent local code, tests and native deployment guidance. Local contract tests are verified; licensed cloud execution remains pending.
+- [snowflake-incremental-orders](https://github.com/lolita-tech/snowflake-incremental-orders)
+- [informatica-idmc-order-quality](https://github.com/lolita-tech/informatica-idmc-order-quality)
+- [informatica-mdm-customer-mastering](https://github.com/lolita-tech/informatica-mdm-customer-mastering)
+- [customer360-idmc-snowflake-fabric-powerbi](https://github.com/lolita-tech/customer360-idmc-snowflake-fabric-powerbi)
+
+Each repository contains its own code, tests and deployment guides. The original Fabric pipeline remains in this repository.
