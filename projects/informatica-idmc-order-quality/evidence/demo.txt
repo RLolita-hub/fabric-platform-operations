@@ -1,0 +1,31 @@
+{
+  "accepted": [
+    {
+      "source": "crm",
+      "order_id": "O1",
+      "amount_cents": 12525,
+      "currency": "USD"
+    },
+    {
+      "source": "shop",
+      "order_id": "O2",
+      "amount_cents": 7475,
+      "currency": "USD"
+    }
+  ],
+  "rejected": [
+    {
+      "line": 5,
+      "reason": "INVALID_AMOUNT"
+    },
+    {
+      "line": 6,
+      "reason": "UNSUPPORTED_CURRENCY"
+    },
+    {
+      "line": 7,
+      "reason": "INVALID_AMOUNT"
+    }
+  ],
+  "revenue_cents": 20000
+}

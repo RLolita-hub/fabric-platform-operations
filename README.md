@@ -23,3 +23,7 @@ python src/pipeline.py export
 - Personal profile/contact drafts are excluded from this public repository.
 
 Draft author attribution requires the author's review. Technical writing was prepared with AI assistance; code examples and claims should be personally reproduced before publication under an author's name. No client data or proprietary code is included.
+
+## New: separate projects and combined Customer 360
+
+[Browse all four projects](projects/README.md): Snowflake Incremental Orders, Informatica IDMC Order Quality, Informatica MDM Customer Mastering, and the combined IDMC + MDM + Snowflake + Fabric + Power BI platform. Each includes independent local code, tests and native deployment guidance. Local contract tests are verified; licensed cloud execution remains pending.

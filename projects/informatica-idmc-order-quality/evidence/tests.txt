@@ -1,0 +1,11 @@
+test_cents_exact (test_mapping.MappingTests.test_cents_exact) ... ok
+test_conflict_stops_batch (test_mapping.MappingTests.test_conflict_stops_batch) ... ok
+test_currency (test_mapping.MappingTests.test_currency) ... ok
+test_exact_duplicate (test_mapping.MappingTests.test_exact_duplicate) ... ok
+test_no_fractional_cent_rounding (test_mapping.MappingTests.test_no_fractional_cent_rounding) ... ok
+test_nonfinite (test_mapping.MappingTests.test_nonfinite) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK
